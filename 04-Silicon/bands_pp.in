@@ -1,0 +1,6 @@
+&BANDS
+  prefix = 'silicon'
+  outdir = '.'
+  filband = 'bands.dat'
+/
+

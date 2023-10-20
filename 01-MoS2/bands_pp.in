@@ -1,0 +1,6 @@
+&BANDS
+  prefix = 'TMD'
+  outdir = '.'
+  filband = 'bands.dat'
+/
+
